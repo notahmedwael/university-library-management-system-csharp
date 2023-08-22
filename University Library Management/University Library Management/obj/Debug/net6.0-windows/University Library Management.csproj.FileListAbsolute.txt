@@ -1,0 +1,39 @@
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\bin\Debug\net6.0-windows\University Library Management.exe
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\bin\Debug\net6.0-windows\University Library Management.deps.json
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\bin\Debug\net6.0-windows\University Library Management.runtimeconfig.json
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\bin\Debug\net6.0-windows\University Library Management.dll
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\bin\Debug\net6.0-windows\University Library Management.pdb
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\obj\Debug\net6.0-windows\University Library Management.csproj.AssemblyReference.cache
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\obj\Debug\net6.0-windows\University_Library_Management.Properties.Resources.resources
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\obj\Debug\net6.0-windows\University Library Management.csproj.GenerateResource.cache
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\obj\Debug\net6.0-windows\University Library Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\obj\Debug\net6.0-windows\University Library Management.AssemblyInfoInputs.cache
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\obj\Debug\net6.0-windows\University Library Management.AssemblyInfo.cs
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\obj\Debug\net6.0-windows\University Library Management.csproj.CoreCompileInputs.cache
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\obj\Debug\net6.0-windows\University Library Management.dll
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\obj\Debug\net6.0-windows\refint\University Library Management.dll
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\obj\Debug\net6.0-windows\University Library Management.pdb
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\obj\Debug\net6.0-windows\University Library Management.genruntimeconfig.cache
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\obj\Debug\net6.0-windows\ref\University Library Management.dll
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\obj\Debug\net6.0-windows\University_Library_Management.HomePage.resources
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\obj\Debug\net6.0-windows\University_Library_Management.SignUpForm.resources
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\obj\Debug\net6.0-windows\University_Library_Management.RegisterForm.resources
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\obj\Debug\net6.0-windows\University_Library_Management.LoginForm.resources
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\obj\Debug\net6.0-windows\Interop.DataSystem.dll
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\obj\Debug\net6.0-windows\Interop.ADOX.dll
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\obj\Debug\net6.0-windows\University Library Management.csproj.ResolveComReference.cache
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\obj\Debug\net6.0-windows\University Library Management.csproj.CopyComplete
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\obj\Debug\net6.0-windows\University_Library_Management.AdminPanel.resources
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\obj\Debug\net6.0-windows\University_Library_Management.AddBook.resources
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\obj\Debug\net6.0-windows\University_Library_Management.UpdateBook.resources
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\obj\Debug\net6.0-windows\University_Library_Management.DeleteBook.resources
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\obj\Debug\net6.0-windows\University_Library_Management.SearchFilter.resources
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\obj\Debug\net6.0-windows\University_Library_Management.UpdateAdmin.resources
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\obj\Debug\net6.0-windows\University_Library_Management.StudentPanel.resources
+C:\Users\xinex\Desktop\Database Project\University Library Management\University Library Management\obj\Debug\net6.0-windows\University_Library_Management.UpdateStudent.resources
